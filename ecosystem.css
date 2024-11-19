@@ -1,0 +1,62 @@
+body {
+	font-family: sans-serif;
+	background-color: rgb(0, 255, 0);
+	margin: 0px;
+}
+
+.p5Canvas {
+	z-index: 1;
+}
+
+.log {
+	z-index: 2;
+	position: absolute;
+	font-family: monospace;
+}
+
+#place-item {
+	position: absolute;
+	left: 200px;
+	top: 0px;
+}
+
+#mode-select {
+	position: absolute;
+	left: 500px;
+}
+
+.hide {
+	visibility: hidden;
+	
+}
+
+.console {
+	position: absolute;
+	width: 200px;
+}
+
+#console-input {
+	top: 270px;
+	left: 100px;
+}
+
+#console-output {
+	top: 300px;
+	left: 100px;
+	height: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* End */
